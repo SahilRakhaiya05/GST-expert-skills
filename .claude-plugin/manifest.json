@@ -1,0 +1,11 @@
+{
+  "name": "indian-gst-expert",
+  "version": "1.0.0",
+  "displayName": "Indian GST Expert",
+  "description": "Comprehensive Indian GST (GST 2.0) expert — calculations, tax slabs, filing rules, e-invoicing, ITC, RCM, HSN codes, and full compliance for 2025/2026.",
+  "author": "indian-gst-expert contributors",
+  "license": "MIT",
+  "skillPath": "skills/indian-gst-expert",
+  "tags": ["gst", "india", "tax", "finance", "compliance", "invoicing"],
+  "claudeCodePlugin": true
+}
