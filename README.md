@@ -4,7 +4,8 @@
 [![Updated](https://img.shields.io/badge/Updated-June%202026-brightgreen)]()
 [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
-[![Stars](https://img.shields.io/github/stars/SahilRakhaiya05/GST-expert-skills?style=social)](https://github.com/SahilRakhaiya05/GST-expert-skills)
+
+<img src="https://github.com/user-attachments/assets/466878cc-6af1-42a2-b8d7-58c7c76488cf" alt="GST Expert Skill" width="100%" style="max-width: 100%;">
 
 > A comprehensive Claude skill for Indian GST covering GST 2.0 reforms, calculations, tax slabs, filing rules, e-invoicing, ITC, RCM, and full compliance for 2025/2026.
 >
